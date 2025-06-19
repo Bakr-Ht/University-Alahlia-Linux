@@ -12,7 +12,22 @@
 - **Theory + practice**: Solid explanations of how and why things work.  
 - **Robust scripting**: Modern best practices to avoid common pitfalls.
 
+## 📥 Install The Book
+
+[Click Here!!](https://github.com/Bakr-Ht/-The-Linux-Command-Line-2nd-Edition/raw/main/Linux-command-line.pdf)
+
 ---
 
-## Install
-[Click Here!!](https://github.com/Bakr-Ht/-The-Linux-Command-Line-2nd-Edition/raw/main/Linux-command-line.pdf)
+## 📚 Educational Resources
+
+- 🔗 [Linux Journey](https://linuxjourney.com/)  
+  A beginner-friendly interactive guide that covers everything from command basics to file permissions, networking, and more.
+
+- 🔗 [OverTheWire – Bandit Wargame](https://overthewire.org/wargames/bandit/bandit0.html)  
+  A hands-on wargame to help you learn Linux terminal and security concepts by solving real challenges from the terminal.
+
+- 🔗 [Cisco – Linux Unhatched](https://www.netacad.com/courses/linux-unhatched?courseLang=en-US)  
+  A free beginner course from Cisco’s NetAcad that introduces Linux in a simple, structured way.
+
+- 🔗 [Harmash – Linux Tutorials (Arabic)](https://harmash.com/tutorials/linux/overview)  
+  Arabic-language tutorials covering Linux basics, terminal commands, and file system structur.
