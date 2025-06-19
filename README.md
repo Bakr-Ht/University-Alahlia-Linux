@@ -1,5 +1,5 @@
 # The-Linux-Command-Line-2nd-Edition
-![Book Cover](https://www.dbooks.org/img/books/1593279523.jpg)
+![Book Cover](https://m.media-amazon.com/images/I/81v21VRpJJL.jpg)
 
 **Author:** William Shotts  
 **Publisher:** No Starch Press (2019)  
