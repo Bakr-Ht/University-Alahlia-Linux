@@ -11,9 +11,12 @@
 - **Up-to-date**: Covers Bash 4.x features (redirection operators, shell expansions).  
 - **Theory + practice**: Solid explanations of how and why things work. 
 
-## 📥 Install The Book
+## 📥 Install The Book 
 
 [Click Here!!](https://github.com/Bakr-Ht/University-Alahlia-Linux/raw/main/Linux-command-line.pdf)
+## 🐧 View Cheet-sheets
+[Click Here!!](Cheat-sheets/)
+
 
 ---
 
