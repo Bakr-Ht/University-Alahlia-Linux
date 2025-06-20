@@ -9,8 +9,7 @@
 
 - **Hands-on**: Concise chapters with practical examples you can copy and tweak.  
 - **Up-to-date**: Covers Bash 4.x features (redirection operators, shell expansions).  
-- **Theory + practice**: Solid explanations of how and why things work.  
-- **Robust scripting**: Modern best practices to avoid common pitfalls.
+- **Theory + practice**: Solid explanations of how and why things work. 
 
 ## 📥 Install The Book
 
