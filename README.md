@@ -33,3 +33,15 @@
 
 - 🔗 [Harmash – Linux Tutorials (Arabic)](https://harmash.com/tutorials/linux/overview)  
   Arabic-language tutorials covering Linux basics, terminal commands, and file system structur.
+  
+- 🔗 [flexcourses-linux-basics](https://www.flexcourses.com/courses/linux-basics)
+  An online education and training platform that aims to provide courses of importance in the labor market in very simple and flexible ways.
+  
+- 🔗 [cmdchallenge.com](https://cmdchallenge.com)
+  A great interactive platform to practice basic Linux commands through real-time terminal challenges.
+
+---
+
+# Linux_Distribution_Timeline
+
+  ![Linux_Distribution_Timeline](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
